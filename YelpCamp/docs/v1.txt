@@ -1,0 +1,11 @@
+Yelp Camp
+
+Version 1
+1. Add Landing Page
+2. Add Campgrounds Page that lists all Campgrounds
+
+Each Campground has:
+Name
+Image
+Array of objects: [ {name:"something", image:"http://image.com"},
+                    {name:"something", image:"http://image.com"} ]
