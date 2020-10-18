@@ -9,3 +9,51 @@ Name
 Image
 Array of objects: [ {name:"something", image:"http://image.com"},
                     {name:"something", image:"http://image.com"} ]
+
+
+3. Layout and Basic Styling
+# create our header and footer partials
+Careful about the ejs syntax:
+<%- include("partials/header") %>
+
+# Add in Bootstrap
+link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+
+4. Creating new Campground
+# Set up new campground Post route
+import the body-parser
+1. npm install body-parser --save
+2. in app.js:
+var bodyParser = require("body-parser");
+app.use(bodyParser, urlencoded({extended: true}));
+
+# Add in body-parse
+bodyParser. urlencoded(): 
+Parses the text as URL encoded data 
+(which is how browsers tend to send form data from regular forms set to POST) 
+and exposes the resulting object (containing the keys and values) on req. body .
+This object will contain key-value pairs, 
+where the value can be a string or array (when extended is false), 
+or any type (when extended is true).
+
+# Set up route to show form
+get request for the new.ejs
+once get the information
+redirect to campgrounds Page
+
+# Add basic unstyled form
+in the new.ejs Page
+
+5. Style the campgrounds Page
+Add a better header/title
+make compgrounds display a grid
+
+Attention, in bootstrap4:
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
+
+<div class="container">
+  <h2>Pictures of Coffee</h2>
+  <div class="row">
+    <div class="col-lg-4 col-6 "><img class="img-thumbnail img-fluid" src="https:" alt=""></div>
