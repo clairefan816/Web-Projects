@@ -1,16 +1,16 @@
 # Web-Projects
 List of all web projects
 
-Ongoing projects:  
+  Ongoing projects:  
 A full-stack yelp-like project called yelp-camp.  
 A full-stack UberEats-like projects called FeedMe.  
 
-Completed projects:  
-Customized Music Player  
-
+  Completed projects:  
+  Customized Music Player  
+  Interactive App Customized play-pause function, pre-next switch song function, auto-play function, and the populated progress bar.  
+  Audio Visualizations with Web Audio API.  
 Server: Web Server for Chrome  
-Interactive App Customized play-pause function, pre-next switch song function, auto-play function, and the populated progress bar.  
-Audio Visualizations with Web Audio API.  
+
 
 ![music player](https://user-images.githubusercontent.com/54572005/96385240-7cdadb00-1147-11eb-8256-32d6359a5b4a.gif)  
 
