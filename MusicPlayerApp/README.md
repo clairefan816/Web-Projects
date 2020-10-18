@@ -1,7 +1,7 @@
 # MusicPlayerApp
 Features
-1. Interactive App
-    Customized play-pause function, pre-next switch song function, auto-play function, and the populated progress bar and soundbar.
+* Customized play-pause function, pre-next switch song function, auto-play function, and the populated progress bar and soundbar.
+* Fancy audio visulization.  
 
 Highlight
 Create two ways of Audio Visualizations with Web Audio API.
