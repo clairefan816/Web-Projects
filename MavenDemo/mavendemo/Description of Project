@@ -2,3 +2,6 @@ Build a REST API with structure of SpringBoot Maven.
 1. Map a URL request HTTP  
 2. Get request for /hello, respond a string "Hi"  
 3. Get request for /topics, respond an array of objects.  
+4. Get request for /topics for searching one specific object.
+5. Put request for /topics for adding one specific object.
+6. Delete request for deleting one specific object.
