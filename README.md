@@ -14,7 +14,8 @@ TV Show Search App
 ------
 * A search App for searching TV show with keywords, and getting the shows' cover as return.
 * A practice project with Axios
-* The datase is from TVMAZE API
+* The datase is from TVMAZE API  
+
 Axios + html + JS  
 
 ![tvshow](https://user-images.githubusercontent.com/54572005/96794967-1d353780-13b4-11eb-8b87-96fb1b428c76.gif)
