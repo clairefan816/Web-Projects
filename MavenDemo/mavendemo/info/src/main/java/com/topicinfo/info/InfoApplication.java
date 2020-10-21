@@ -1,13 +1,13 @@
-package com.mavendemo.mavendemo;
+package com.topicinfo.info;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MavendemoApplication {
+public class InfoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MavendemoApplication.class, args);
+		SpringApplication.run(InfoApplication.class, args);
 	}
 
 }
