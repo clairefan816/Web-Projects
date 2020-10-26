@@ -10,6 +10,19 @@ A full-stack UberEats-like projects called FeedMe.
 
 ### Completed projects:  
 
+A full-stack sign-up subscribe app
+-----
+* A full-stack single-page app
+* It signs people up to a mailing list for further receiving news.
+* User can see the success or failure feedback through a web page after they submit their registration.
+* The sign-up, successful and failure pages are load up with bootstrap enabled.
+* The user sign-up data are saved on MailChimp servers through their API.
+* The app deployed on Heroku.
+
+NodeJS + Https + Express + HTML + CSS + Javascript + Heroku.  
+
+
+
 TV Show Search App
 ------
 * A search App for searching TV show with keywords, and getting the shows' cover as return.
